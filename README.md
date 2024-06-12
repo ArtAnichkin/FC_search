@@ -51,4 +51,4 @@ The enviroment for run notebooks locally download `Dockerfile` from `/enviroment
         
 ## Acknowledgements
 
-**Work is greatly supported by Non-commercial Foundation for the Advancement of Science and Education INTELLECT**
+**Work is greatly supported by Non-commercial Foundation for the Advancement of Science and Education INTELLECT, and my mentor, Alexander Ivchenko**
