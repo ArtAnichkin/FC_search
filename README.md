@@ -41,11 +41,11 @@ Datasets and trained models are available at [Google Drive](https://drive.google
 
 For data preparation you should run notebook from `/notebooks/preparing_datasets.ipnb` or load data. Path for input files load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing).
 
-To get trained models you should run notebook from `/notebooks/fitting_models.ipynb` or load trained models . Path for input files load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing). 
+To get trained models you should run notebook from `/notebooks/fitting_models.ipynb` or load trained models. Path for input files load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing). 
 
-To get predictions you should run notebook from `/notebooks/prediction.ipnb` . Path for input file load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing).
+To get predictions you should run notebook from `/notebooks/prediction.ipnb`. Path for input file load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing).
 
-To get generated structures you should run notebook from `/notebooks/generation.ipnb` . Path for input file load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing).
+To get generated structures you should run notebook from `/notebooks/generation.ipnb`. Path for input file load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing).
 
 The enviroment for run notebooks locally download `Dockerfile` from `/enviroment` folder.
         
