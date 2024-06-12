@@ -39,7 +39,7 @@ For generation, we used a [genetic algorithm](https://pubs.rsc.org/en/content/ar
 
 Datasets and trained models are available at [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing)
 
-For data preparation you should run notebook from `/notebooks/preparing_datasets.ipnb`. Path for input files load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing).
+For data preparation you should run notebook from `/notebooks/preparing_datasets.ipnb` or load data. Path for input files load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing).
 
 To get trained models you should run notebook from `/notebooks/fitting_models.ipynb` or load trained models . Path for input files load from corresponding folders in [Google Drive](https://drive.google.com/drive/folders/1WtDQLZIx_Zwt6z04H2ji3JKgEYXwAWhX?usp=sharing). 
 
